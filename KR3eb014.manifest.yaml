@@ -1,0 +1,317 @@
+canonical_identifier: bkk:krp/KR3eb014/v1
+canonical_location: https://kanripo.org/bkk/KR3eb014/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瀕湖脈學
+  identifiers:
+    krp: KR3eb014
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb014.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb014_000.yaml, hash: 'sha256:7cf134d26dc5a436f009eee5cc3a9c31ece072b1ac54c89a308104c740dfdd33'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb014_000.markers.yaml, hash: 'sha256:ee896553af31bdb03d9ced37793e94f2c1841b072127bcac8b5cca0aaaf4908e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 133
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 340
+  label: 浮陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d4.h1s1
+    span:
+    - body
+    - 340
+    - 647
+  label: 沉陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d5.h1s1
+    span:
+    - body
+    - 647
+    - 901
+  label: 遲陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d6.h1s1
+    span:
+    - body
+    - 901
+    - 1142
+  label: 數陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d7.h1s1
+    span:
+    - body
+    - 1142
+    - 1396
+  label: 滑陽中陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d8.h1s1
+    span:
+    - body
+    - 1396
+    - 1671
+  label: 澀陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d9.h1s1
+    span:
+    - body
+    - 1671
+    - 1897
+  label: 虛陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d10.h1s1
+    span:
+    - body
+    - 1897
+    - 2145
+  label: 實陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d11.h1s1
+    span:
+    - body
+    - 2145
+    - 2299
+  label: 長陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d12.h1s1
+    span:
+    - body
+    - 2299
+    - 2491
+  label: 短陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d13.h1s1
+    span:
+    - body
+    - 2491
+    - 2766
+  label: 洪陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d14.h1s1
+    span:
+    - body
+    - 2766
+    - 2983
+  label: 微陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d15.h1s1
+    span:
+    - body
+    - 2983
+    - 3209
+  label: 緊陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d16.h1s1
+    span:
+    - body
+    - 3209
+    - 3514
+  label: 緩陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d17.h1s1
+    span:
+    - body
+    - 3514
+    - 3737
+  label: 芤陽中陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d18.h1s1
+    span:
+    - body
+    - 3737
+    - 4066
+  label: 弦陽中陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d19.h1s1
+    span:
+    - body
+    - 4066
+    - 4279
+  label: 革陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d20.h1s1
+    span:
+    - body
+    - 4279
+    - 4500
+  label: 牢陰中陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d21.h1s1
+    span:
+    - body
+    - 4500
+    - 4721
+  label: 濡陰即軟字
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d22.h1s1
+    span:
+    - body
+    - 4721
+    - 4949
+  label: 弱陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d23.h1s1
+    span:
+    - body
+    - 4949
+    - 5185
+  label: 散陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d24.h1s1
+    span:
+    - body
+    - 5185
+    - 5371
+  label: 細陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d25.h1s1
+    span:
+    - body
+    - 5371
+    - 5651
+  label: 伏陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d26.h1s1
+    span:
+    - body
+    - 5651
+    - 5890
+  label: 動陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d27.h1s1
+    span:
+    - body
+    - 5890
+    - 6050
+  label: 促陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d28.h1s1
+    span:
+    - body
+    - 6050
+    - 6229
+  label: 結陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d29.h1s1
+    span:
+    - body
+    - 6229
+    - 6721
+  label: 代陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb014_jc_000-d30.h1s1
+    span:
+    - body
+    - 6721
+    - 9365
+  label: 四言舉要
+  type: section
+  level: 1
+hash: sha256:6386950471cdf84f6c83979d60a705d47f1767a5c15bce46f8a96b811cd2eada
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
