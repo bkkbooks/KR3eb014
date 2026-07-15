@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb014/v1
 canonical_location: https://kanripo.org/bkk/KR3eb014/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瀕湖脈學
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb014_000.yaml, hash: 'sha256:808a701a92e142b339a7e053e043cdac26430aac3ea779cf20cd0eb6bc84f028'}
+  - {seq: 0, filename: KR3eb014_000.yaml, hash: 'sha256:987bf32a5931ecb8411385aa73cd1a752d9f4c34ae7a0570e9ea70f311998bdf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb014_000.markers.yaml, hash: 'sha256:8a42b76218938ab1b33247a06dddf186dab5de295bb4d1310709ce09752d09b4'}
+  - {seq: 0, role: markers, filename: assets/KR3eb014_000.markers.yaml, hash: 'sha256:0af87f8fb621f9092307bc96c611b243fa7bd5834d510800205a7229dc7c5934'}
 table_of_contents:
 - ref:
     seq: 0
@@ -311,4 +311,7 @@ table_of_contents:
   label: 四言舉要
   type: section
   level: 1
-hash: sha256:7adfed4ea6cb9c7fe3ada322dbdc0cb083c31d613f530c8383dc0ba560441362
+hash: sha256:750920cf4a031f2fa150c66d8fdb545fbd1e51655197290c256e7e07b0954706
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
