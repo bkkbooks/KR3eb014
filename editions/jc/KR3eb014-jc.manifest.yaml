@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb014_000-jc.yaml, hash: 'sha256:808a701a92e142b339a7e053e043cdac26430aac3ea779cf20cd0eb6bc84f028'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb014_000-jc.markers.yaml, hash: 'sha256:f36e9a5db7c1232d34c6b21d334abdd8d1f252073a29948f0098c4057cabab1c'}
+  - {seq: 0, role: markers, filename: assets/KR3eb014_000-jc.markers.yaml, hash: 'sha256:7dae1a20d50ad6571136f93f9e795397bb5d9e4b907b757453fb203b4d2921eb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -311,4 +311,4 @@ table_of_contents:
   label: 四言舉要
   type: section
   level: 1
-hash: sha256:cb3a765f0e78d8f5453ec5654158e5690330f17573dfaf2969c51b63e5523f1f
+hash: sha256:878481c7398bf0252a0afc62d82c97176c762ee4c0dc5e2089b5ec801e41c507
